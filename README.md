@@ -10,7 +10,7 @@ This is a console-based task manager application created for my CSC 249 Data str
 ## Files:
 - `office_task_app.py`: Main application
 - `task_structures.py`: Custom data structures (heap, linked list, hash map)
-- `CSC 249 Final Project Document.pdf`: Analysis and project writeup
+- `Writing Document.pdf`: Analysis and project writeup
 
 ## Author:
 ey0b11
