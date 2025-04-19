@@ -1,6 +1,6 @@
 # Office Task Manager 
 
-This is a console-based task manager application created for my CSC 249 Final Project at Wake Tech.
+This is a console-based task manager application created for my CSC 249 Data structures & alg class project at Wake Tech.
 
 ## Features:
 - Add, view, and complete tasks
